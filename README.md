@@ -27,6 +27,7 @@ QHTTP simply allow you to expose any DB2 for I stored procedure as a  Restful We
 
 #Setup
 ![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/00100.png "Login")
+
 - Login
 - User Name: Admin
 - Password: AdminPass
@@ -38,55 +39,68 @@ QHTTP simply allow you to expose any DB2 for I stored procedure as a  Restful We
 
 
 ![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/00400.png "Login")
+
 - Add required details for server. 
 - Setup job libl if required.
 
 
-![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/00500.png "Login
+![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/00500.png "Login")
+
 - Server setup is done
 
 
 ![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/00600.png "Login")
+
 - Add a new web service
 
 ![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/00700.png "Login")
+
 - Enter required details
 
 
 ![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/00800.png "Login")
+
 - Enter test values for IN and INOUT paramters
-- click "view IN/OUT" to check a sample
+- click "view IN/OUT" to check a sample.
 
 
 ![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/00900.png "Login")
 
-- Create a web service group
+- Create a web service group.
+
 ![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/00910.png "Login")
 
-- add webservice to the group
+- add webservice to the group.
+
 ![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/00920.png "Login")
+
 ![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/00930.png "Login")
 
-- create a new user
+- create a new user.
+
 ![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/00940.png "Login")
 
 
 ![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/00950.png "Login")
 
-- Give user access to the group. (One user can have multiple groups)
+- Give user access to the group. (One user can have multiple groups).
+
 ![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/00960.png "Login")
 
-- Click on token to copy
+- Click on token to copy.
+
 ![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/00980.png "Login")
  
  
  
-- Testing time with Postman (or any other tool)
+- Testing time with Postman (or any other tool).
+
 ![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/01100.png "Login")
 ![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/01200.png "Login")
 ![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/01300.png "Login")
 
-- Log entries
+- Log entries.
+
 ![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/02100.png "Login")
 ![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/02200.png "Login")
 
