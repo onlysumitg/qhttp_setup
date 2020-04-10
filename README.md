@@ -56,7 +56,8 @@ QHTTP simply allow you to expose any DB2 for I stored procedure as a  Restful We
 ![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/00700.png "Login")
 
 - Enter required details
-
+- Click Test & Save
+- It will load the stored procedure details from the server.
 
 ![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/00800.png "Login")
 
