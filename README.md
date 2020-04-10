@@ -86,8 +86,8 @@ QHTTP simply allow you to expose any DB2 for I stored procedure as a  Restful We
 
 - Give user access to the group. (One user can have multiple groups).
 
-![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/00960.png "Login")
 
+- Click save to generate a user token
 - Click on token to copy.
 
 ![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/00980.png "Login")
