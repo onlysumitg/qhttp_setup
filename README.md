@@ -108,20 +108,31 @@ QHTTP simply allow you to expose any DB2 for I stored procedure as a  Restful We
 
 
 
-#H2 Embedded Database
+# H2 Embedded Database
 - QHTTP uses Encrypted H2 Embedded Database 
 - db.properties files contains the default database setup.
 - These propertis can be changed based on the requirement. 
 - http://www.h2database.com/html/features.html#file_encryption.
 
-#system.properties
-- for system level configurations
-- Like JWT key
-- SSL configuration 
-- Port.
+# SSL
+- A self signed SSL certificate is already included with qhttp.jks keystore.
+- To enable SSL, change system.proerties "ssl=Y".
+- For more details please refer: https://www.eclipse.org/jetty/documentation/current/configuring-ssl.html .
 
-#Predefined IN/INOUT parameters.
+# system.properties
+- for system level configurations Like JWT key and SSL
+ 
 
+# Predefined IN/INOUT parameters.
+- You can define IN or INOUT parameter with following names to receive the request data
+- http_request_method
+- http_request_url
+- http_request_endpoint
+- http_request_ip
+- http_request_port
+- http_request_protocol
+- http_request_username
+- http_request_useragent
 
 
  
