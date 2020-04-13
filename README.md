@@ -107,6 +107,23 @@ QHTTP simply allow you to expose any DB2 for I stored procedure as a  Restful We
 
 
 
+
+#H2 Embedded Database
+- QHTTP uses Encrypted H2 Embedded Database 
+- db.properties files contains the default database setup.
+- These propertis can be changed based on the requirement. 
+- http://www.h2database.com/html/features.html#file_encryption.
+
+#system.properties
+- for system level configurations
+- Like JWT key
+- SSL configuration 
+- Port.
+
+#Predefined IN/INOUT parameters.
+
+
+
  
 
 **Table of Contents**
