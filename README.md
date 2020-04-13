@@ -25,7 +25,15 @@ QHTTP simply allow you to expose any DB2 for I stored procedure as a  Restful We
 
 
 
-#Setup
+# Setup
+
+Setup need 4 steps:
+1. Add an IBM I server.
+2. Configure a SP as webservice.
+3. Create a web services group.
+4. Assign the web services group to a user.
+
+
 ![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/00100.png "Login")
 
 - Login
