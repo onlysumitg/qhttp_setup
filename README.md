@@ -42,6 +42,13 @@ Setup need 4 steps:
 4. Assign the web services group to a user.
 
 
+# Setup Example
+
+This is a sample SP with IN/INOUT and OUT parameters and 2 resultsets.
+
+![SP](https://github.com/onlysumitg/qhttp_setup/blob/master/images/SP.PNG "SP")
+
+
 ![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/00100.png "Login")
 
 - Login
