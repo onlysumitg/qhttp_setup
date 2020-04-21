@@ -50,14 +50,16 @@ This is a sample SP with IN/INOUT and OUT parameters and 2 resultsets.
 ![SP](https://github.com/onlysumitg/qhttp_setup/blob/master/images/SP.PNG "SP")
 
 
+# Login
 ![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/0001000.PNG "Login")
 
-- Login
+
 - User Name: Admin
 - Password: AdminPass
 
+# Add a server
 ![AddServer](https://github.com/onlysumitg/qhttp_setup/blob/master/images/0002000.PNG "Add_Server")
-- Add a server
+
 
 ![Server](https://github.com/onlysumitg/qhttp_setup/blob/master/images/0003000.PNG "Server")
 
@@ -71,9 +73,10 @@ This is a sample SP with IN/INOUT and OUT parameters and 2 resultsets.
 - Long press on server item to check the server usages.
 
 
+# Add a new web service
+
 ![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/0005000.PNG "Login")
 
-- Add a new web service
 
 ![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/0006000.PNG "Login")
 
@@ -83,11 +86,13 @@ This is a sample SP with IN/INOUT and OUT parameters and 2 resultsets.
 
 ![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/0007000.PNG "Login")
 
-- Enter test values for IN and INOUT paramters
-- click "view IN/OUT" to check a sample.
+- After saving "Open Api specs" button will be enabled
 
 ![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/0007100.PNG "Login")
 
+
+- Enter test values for IN and INOUT paramters
+- click "view IN/OUT" to check a sample.
 ![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/0008000.PNG "Login")
 
 
@@ -100,10 +105,11 @@ This is a sample SP with IN/INOUT and OUT parameters and 2 resultsets.
 
 - add webservice to the group.
 
+# create a new user.
  
 ![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/0011000.PNG "Login")
 
-- create a new user.
+
  
 ![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/0012000.PNG "Login")
 
@@ -115,7 +121,7 @@ This is a sample SP with IN/INOUT and OUT parameters and 2 resultsets.
 - Click on token to copy.
 
   
-- Testing time with Swagger UI.
+# Testing time with Swagger UI.
 
 ![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/0014000.PNG "Login")
 
@@ -124,11 +130,11 @@ This is a sample SP with IN/INOUT and OUT parameters and 2 resultsets.
 ![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/0016000.PNG "Login")
 
  
-- Testing time with Postman  
+# Testing time with Postman  
 
 ![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/0017000.PNG "Login")
 
-- Log entries.
+# Log entries.
 
 ![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/0018000.PNG "Login")
 
@@ -150,7 +156,7 @@ This is a sample SP with IN/INOUT and OUT parameters and 2 resultsets.
 - For more details please refer: https://www.eclipse.org/jetty/documentation/current/configuring-ssl.html .
 
 # system.properties
-- for system level configurations Like JWT key and SSL
+- for system level configurations Like JWT key and SSL.
 
 # openapi.properties
 - configuration related to OPEN API. 
