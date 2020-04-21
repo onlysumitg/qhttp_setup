@@ -50,66 +50,66 @@ This is a sample SP with IN/INOUT and OUT parameters and 2 resultsets.
 ![SP](https://github.com/onlysumitg/qhttp_setup/blob/master/images/SP.PNG "SP")
 
 
-![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/0001000.png "Login")
+![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/0001000.PNG "Login")
 
 - Login
 - User Name: Admin
 - Password: AdminPass
 
-![AddServer](https://github.com/onlysumitg/qhttp_setup/blob/master/images/0002000.png "Add_Server")
+![AddServer](https://github.com/onlysumitg/qhttp_setup/blob/master/images/0002000.PNG "Add_Server")
 - Add a server
 
-![Server](https://github.com/onlysumitg/qhttp_setup/blob/master/images/0003000.png "Server")
+![Server](https://github.com/onlysumitg/qhttp_setup/blob/master/images/0003000.PNG "Server")
 
 - Add required details for server. 
 - Setup job libl if required.
 
 
-![Sercer](https://github.com/onlysumitg/qhttp_setup/blob/master/images/0004000.png "Server")
+![Sercer](https://github.com/onlysumitg/qhttp_setup/blob/master/images/0004000.PNG "Server")
 
 - Server setup is done
 - Long press on server item to check the server usages.
 
 
-![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/0005000.png "Login")
+![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/0005000.PNG "Login")
 
 - Add a new web service
 
-![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/0006000.png "Login")
+![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/0006000.PNG "Login")
 
 - Enter required details
 - Click Test & Save
 - It will load the stored procedure details from the server.
 
-![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/0007000.png "Login")
+![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/0007000.PNG "Login")
 
 - Enter test values for IN and INOUT paramters
 - click "view IN/OUT" to check a sample.
 
-![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/0007100.png "Login")
+![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/0007100.PNG "Login")
 
-![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/0008000.png "Login")
+![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/0008000.PNG "Login")
 
 
 
-![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/0009000.png "Login")
+![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/0009000.PNG "Login")
 
 - Create a web service group.
 
-![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/0010000.png "Login")
+![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/0010000.PNG "Login")
 
 - add webservice to the group.
 
  
-![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/0011000.png "Login")
+![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/0011000.PNG "Login")
 
 - create a new user.
  
-![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/0012000.png "Login")
+![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/0012000.PNG "Login")
 
 - Give user access to the group. (One user can have multiple groups).
 
-![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/0013000.png "Login")
+![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/0013000.PNG "Login")
 
 - Click save to generate a user token
 - Click on token to copy.
@@ -117,22 +117,22 @@ This is a sample SP with IN/INOUT and OUT parameters and 2 resultsets.
   
 - Testing time with Swagger UI.
 
-![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/0014000.png "Login")
+![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/0014000.PNG "Login")
 
-![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/0015000.png "Login")
+![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/0015000.PNG "Login")
 
-![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/0016000.png "Login")
+![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/0016000.PNG "Login")
 
  
 - Testing time with Postman  
 
-![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/0017000.png "Login")
+![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/0017000.PNG "Login")
 
 - Log entries.
 
-![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/0018000.png "Login")
+![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/0018000.PNG "Login")
 
-![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/0019000.png "Login")
+![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/0019000.PNG "Login")
 
 
 
