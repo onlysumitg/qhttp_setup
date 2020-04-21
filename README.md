@@ -20,6 +20,7 @@ QHTTP simply allow you to expose any DB2 for I stored procedure as a  Restful We
 - It can be installed on NON IBM i systems. You can install it on your pc also.
 - It can connect to mutiple IBM i systems.
 - UI is completly independent of the backend. So its easy to create your own UI.
+- Integrated with Open API.
 - and other stuff that I dont remeber right now :)
 
 
@@ -49,84 +50,90 @@ This is a sample SP with IN/INOUT and OUT parameters and 2 resultsets.
 ![SP](https://github.com/onlysumitg/qhttp_setup/blob/master/images/SP.PNG "SP")
 
 
-![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/00100.png "Login")
+![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/0001000.png "Login")
 
 - Login
 - User Name: Admin
 - Password: AdminPass
 
-![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/00200.png "Login")
+![AddServer](https://github.com/onlysumitg/qhttp_setup/blob/master/images/0002000.png "Add_Server")
 - Add a server
 
-![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/00300.png "Login")
-
-
-![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/00400.png "Login")
+![Server](https://github.com/onlysumitg/qhttp_setup/blob/master/images/0003000.png "Server")
 
 - Add required details for server. 
 - Setup job libl if required.
 
 
-![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/00500.png "Login")
+![Sercer](https://github.com/onlysumitg/qhttp_setup/blob/master/images/0004000.png "Server")
 
 - Server setup is done
+- Long press on server item to check the server usages.
 
 
-![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/00600.png "Login")
+![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/0005000.png "Login")
 
 - Add a new web service
 
-![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/00700.png "Login")
+![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/0006000.png "Login")
 
 - Enter required details
 - Click Test & Save
 - It will load the stored procedure details from the server.
 
-![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/00800.png "Login")
+![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/0007000.png "Login")
 
 - Enter test values for IN and INOUT paramters
 - click "view IN/OUT" to check a sample.
 
+![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/0007100.png "Login")
 
-![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/00900.png "Login")
+![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/0008000.png "Login")
+
+
+
+![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/0009000.png "Login")
 
 - Create a web service group.
 
-![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/00910.png "Login")
+![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/0010000.png "Login")
 
 - add webservice to the group.
 
-![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/00920.png "Login")
-
-![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/00930.png "Login")
+ 
+![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/0011000.png "Login")
 
 - create a new user.
-
-![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/00940.png "Login")
-
-
-![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/00950.png "Login")
+ 
+![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/0012000.png "Login")
 
 - Give user access to the group. (One user can have multiple groups).
 
+![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/0013000.png "Login")
 
 - Click save to generate a user token
 - Click on token to copy.
 
-![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/00980.png "Login")
- 
- 
- 
-- Testing time with Postman (or any other tool).
+  
+- Testing time with Swagger UI.
 
-![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/01100.png "Login")
-![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/01200.png "Login")
-![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/01300.png "Login")
+![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/0014000.png "Login")
+
+![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/0015000.png "Login")
+
+![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/0016000.png "Login")
+
+ 
+- Testing time with Postman  
+
+![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/0017000.png "Login")
 
 - Log entries.
 
-![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/02100.png "Login")
-![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/02200.png "Login")
+![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/0018000.png "Login")
+
+![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/0019000.png "Login")
+
 
 
 
@@ -144,7 +151,9 @@ This is a sample SP with IN/INOUT and OUT parameters and 2 resultsets.
 
 # system.properties
 - for system level configurations Like JWT key and SSL
- 
+
+# openapi.properties
+- configuration related to OPEN API. 
 
 # Predefined IN/INOUT parameters.
 - You can define IN or INOUT parameter with following names to receive the request data
@@ -157,11 +166,4 @@ This is a sample SP with IN/INOUT and OUT parameters and 2 resultsets.
 - http_request_username
 - http_request_useragent
 
-
  
-
-**Table of Contents**
-
-[TOCM]
-
-[TOC]
