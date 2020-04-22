@@ -6,6 +6,7 @@ Its still in initial development so there might be bugs. But this version is ful
 QHTTP simply allow you to expose any DB2 for I stored procedure as a Restful service. 
 
 ### Requirements
+- **Dont need to install the QHTTP jar file on IBM I.
 - IBM I&reg; of course. 
 - Java 8+.
 - QHTTP uses [Eclipse Jetty](https://www.eclipse.org/jetty/ "Eclipse Jetty") as the server. 
