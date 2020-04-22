@@ -166,13 +166,13 @@ This is a sample SP with IN/INOUT and OUT parameters and 2 resultsets.
 
 # Predefined IN/INOUT parameters.
 - You can define IN or INOUT parameter with following names to receive the request data
-- http_request_method
-- http_request_url
-- http_request_endpoint
-- http_request_ip
-- http_request_port
-- http_request_protocol
-- http_request_username
-- http_request_useragent
+  - http_request_method
+  - http_request_url
+  - http_request_endpoint
+  - http_request_ip
+  - http_request_port
+  - http_request_protocol
+  - http_request_username
+  - http_request_useragent
 
  
