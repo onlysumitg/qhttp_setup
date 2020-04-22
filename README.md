@@ -93,19 +93,20 @@ This is a sample SP with IN/INOUT and OUT parameters and 2 resultsets.
 
 - Enter test values for IN and INOUT paramters
 - click "view IN/OUT" to check a sample.
+
 ![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/0008000.PNG "Login")
 
-
+# Create a web service group.
 
 ![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/0009000.PNG "Login")
 
-- Create a web service group.
+
 
 ![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/0010000.PNG "Login")
 
 - add webservice to the group.
 
-# create a new user.
+# Create a new user.
  
 ![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/0011000.PNG "Login")
 
