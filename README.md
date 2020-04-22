@@ -14,7 +14,7 @@ QHTTP simply allow you to expose any DB2 for I stored procedure as a Restful Web
 
 
 
-#### Features
+### Features
 - Simple setup and interface.
 - Dont need any special code inside the DB2 for I stored procedure.
 - It does not require any web server (like Apache) on IBM i.
