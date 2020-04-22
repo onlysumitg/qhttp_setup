@@ -57,7 +57,7 @@ This is a sample SP with IN/INOUT and OUT parameters and 2 resultsets.
 - User Name: Admin
 - Password: AdminPass
 
-# Add a server
+# 1. Add a server
 ![AddServer](https://github.com/onlysumitg/qhttp_setup/blob/master/images/0002000.PNG "Add_Server")
 
 
@@ -73,7 +73,7 @@ This is a sample SP with IN/INOUT and OUT parameters and 2 resultsets.
 - Long press on server item to check the server usages.
 
 
-# Add a new web service
+# 2. Add a new service
 
 ![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/0005000.PNG "Login")
 
@@ -96,7 +96,7 @@ This is a sample SP with IN/INOUT and OUT parameters and 2 resultsets.
 
 ![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/0008000.PNG "Login")
 
-# Create a web service group.
+# 3. Create a new service group.
 
 ![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/0009000.PNG "Login")
 
@@ -106,7 +106,7 @@ This is a sample SP with IN/INOUT and OUT parameters and 2 resultsets.
 
 - add webservice to the group.
 
-# Create a new user.
+# 4. Create a new user.
  
 ![Login](https://github.com/onlysumitg/qhttp_setup/blob/master/images/0011000.PNG "Login")
 
