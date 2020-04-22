@@ -3,7 +3,7 @@
 Its still in initial development so there might be bugs. But this version is fully functional. Please feel free to report the bugs at onlysumitg@gmail.com 
 
 ### About QHTTP
-QHTTP simply allow you to expose any DB2 for I stored procedure as a Restful Web Service. 
+QHTTP simply allow you to expose any DB2 for I stored procedure as a Restful service. 
 
 ### Requirements
 - IBM I&reg; of course. 
