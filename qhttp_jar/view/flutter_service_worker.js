@@ -14,10 +14,11 @@ const RESOURCES = {
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
 "assets/packages/flutter_markdown/assets/logo.png": "67642a0b80f3d50277c44cde8f450e50",
 "favicon.png": "880a73926b0639ffa7d85e941352ec82",
+"icons/Icon-192.png": "c1d793bdf40f867cef84073f1aaf697a",
 "icons/qhttp.png": "c1d793bdf40f867cef84073f1aaf697a",
 "index.html": "af428aeac126eb2e31e9956cde178074",
 "/": "af428aeac126eb2e31e9956cde178074",
-"main.dart.js": "7be571f03dcf16d8a25ba994d64649ee",
+"main.dart.js": "652c817b023e4179129cfb25db236ec4",
 "manifest.json": "89b44a1744702891f2945cf014586127"
 };
 
