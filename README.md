@@ -19,6 +19,7 @@ QHTTP simply allow you to expose any DB2 for I stored procedure as a Restful ser
 - Dont need any special code inside the DB2 for I stored procedure.
 - It does not require any web server (like Apache) on IBM i.
 - It can be used with any existing DB2 for I stored procedure.
+- It uses JWT bearer token for auth.(please check system.properties for JWT config)
 - It can be installed on NON IBM i systems. You can install it on your pc also.
 - It can connect to mutiple IBM i systems.
 - UI is completly independent of the backend. So its easy to create your own UI.
