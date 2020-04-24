@@ -50827,7 +50827,7 @@ var $async$q_=P.Y(function(a,b){if(a===1)return P.a_(b,s)
 while(true)switch(t){case 0:p=q.a
 o=u.N
 t=3
-return P.a9(T.fb("POST","http://localhost:6006/a/gettoken",P.h(["user",p.a,"password",p.b],o,o),""),$async$q_)
+return P.a9(T.fb("POST","/a/gettoken",P.h(["user",p.a,"password",p.b],o,o),""),$async$q_)
 case 3:n=b
 if(n.d.toUpperCase()==="S"){o=n.c
 if(o.length!==0){p.c=o
@@ -50858,7 +50858,7 @@ case 1:return P.a0(r,s)}})
 return P.a1($async$l7,s)},
 ok:function(){var t=0,s=P.a2(u.z),r=this,q,p,o,n,m
 var $async$ok=P.Y(function(a,b){if(a===1)return P.a_(b,s)
-while(true)switch(t){case 0:o="http://localhost:6006/log/10/"+r.e+"/"
+while(true)switch(t){case 0:o="/log/10/"+r.e+"/"
 n=r.b
 m=n.a
 o=o+(m.length===0?"*":m)+"/"
@@ -50930,7 +50930,7 @@ A.HD.prototype={}
 T.u9.prototype={
 cK:function(){var t=0,s=P.a2(u.N),r,q=2,p,o=[],n=this,m,l,k,j,i
 var $async$cK=P.Y(function(a,b){if(a===1){p=b
-t=q}while(true)switch(t){case 0:k="http://localhost:6006/apidoc"
+t=q}while(true)switch(t){case 0:k="/apidoc"
 j=""
 q=4
 t=7
@@ -50955,7 +50955,7 @@ case 2:return P.a_(p,s)}})
 return P.a1($async$cK,s)},
 cL:function(){var t=0,s=P.a2(u.N),r,q=2,p,o=[],n=this,m,l,k,j,i
 var $async$cL=P.Y(function(a,b){if(a===1){p=b
-t=q}while(true)switch(t){case 0:k="http://localhost:6006/apidocjson"
+t=q}while(true)switch(t){case 0:k="/apidocjson"
 j=""
 q=4
 t=7
@@ -50984,7 +50984,7 @@ L.iS.prototype={
 be:function(a){var t=0,s=P.a2(u.ln),r,q=this,p,o
 var $async$be=P.Y(function(b,c){if(b===1)return P.a_(c,s)
 while(true)switch(t){case 0:t=3
-return P.a9(T.fb("POST","http://localhost:6006/group",q.a.ju(),q.b.c),$async$be)
+return P.a9(T.fb("POST","/group",q.a.ju(),q.b.c),$async$be)
 case 3:o=c
 if(o.d.toUpperCase()==="S"){q.a=B.abb(J.a3(o.f,"group"))
 q.aP()}else{p=o.e
@@ -50995,7 +50995,7 @@ case 1:return P.a0(r,s)}})
 return P.a1($async$be,s)},
 cK:function(){var t=0,s=P.a2(u.N),r,q=2,p,o=[],n=this,m,l,k,j,i
 var $async$cK=P.Y(function(a,b){if(a===1){p=b
-t=q}while(true)switch(t){case 0:k="http://localhost:6006/group/"+n.a.a+"/apidoc"
+t=q}while(true)switch(t){case 0:k="/group/"+n.a.a+"/apidoc"
 j=""
 q=4
 t=7
@@ -51020,7 +51020,7 @@ case 2:return P.a_(p,s)}})
 return P.a1($async$cK,s)},
 cL:function(){var t=0,s=P.a2(u.N),r,q=2,p,o=[],n=this,m,l,k,j,i
 var $async$cL=P.Y(function(a,b){if(a===1){p=b
-t=q}while(true)switch(t){case 0:k="http://localhost:6006/group/"+n.a.a+"/apidocjson"
+t=q}while(true)switch(t){case 0:k="/group/"+n.a.a+"/apidocjson"
 j=""
 q=4
 t=7
@@ -51065,7 +51065,7 @@ return P.a1($async$nm,s)},
 ol:function(){var t=0,s=P.a2(u.z),r=this,q
 var $async$ol=P.Y(function(a,b){if(a===1)return P.a_(b,s)
 while(true)switch(t){case 0:t=2
-return P.a9(T.fb("GET","http://localhost:6006/group",C.cd,r.b.c),$async$ol)
+return P.a9(T.fb("GET","/group",C.cd,r.b.c),$async$ol)
 case 2:q=b
 if(q.d.toUpperCase()==="S")J.ds(J.a3(q.f,"list"),new D.U9(r))
 return P.a0(null,s)}})
@@ -51108,7 +51108,7 @@ return P.a1($async$l9,s)},
 on:function(){var t=0,s=P.a2(u.z),r=this,q
 var $async$on=P.Y(function(a,b){if(a===1)return P.a_(b,s)
 while(true)switch(t){case 0:t=2
-return P.a9(T.fb("GET","http://localhost:6006/server",C.cd,r.b.c),$async$on)
+return P.a9(T.fb("GET","/server",C.cd,r.b.c),$async$on)
 case 2:q=b
 if(q.d.toUpperCase()==="S")J.ds(J.a3(q.f,"list"),new M.V_(r))
 return P.a0(null,s)}})
@@ -51118,7 +51118,7 @@ GG:function(a){var t=0,s=P.a2(u.ln),r,q=2,p,o=[],n=this,m,l,k,j,i,h,g
 var $async$nt=P.Y(function(b,c){if(b===1){p=c
 t=q}while(true)switch(t){case 0:q=4
 m=P.h(["serverId",a.a,"name",a.b,"serverIP",a.c,"username",a.d,"password",a.e,"active",a.f,"ssl",a.r,"isProduction",a.z,"isDefault",a.Q,"maxPoolSize",a.cx,"maxConnectionAge",a.ch,"libList",C.c.bn(a.cy,",")],u.N,u.z)
-l="http://localhost:6006/server"
+l="/server"
 t=7
 return P.a9(T.fb("POST",l,m,n.b.c),$async$nt)
 case 7:k=c
@@ -51144,7 +51144,7 @@ return P.a1($async$nt,s)},
 pY:function(a){return this.X2(a)},
 X2:function(a){var t=0,s=P.a2(u.N),r,q=2,p,o=[],n=this,m,l,k,j,i
 var $async$pY=P.Y(function(b,c){if(b===1){p=c
-t=q}while(true)switch(t){case 0:k="http://localhost:6006/server/"+a.a+"/apidoc"
+t=q}while(true)switch(t){case 0:k="/server/"+a.a+"/apidoc"
 j=""
 q=4
 t=7
@@ -51170,7 +51170,7 @@ return P.a1($async$pY,s)},
 pZ:function(a){return this.X3(a)},
 X3:function(a){var t=0,s=P.a2(u.N),r,q=2,p,o=[],n=this,m,l,k,j,i
 var $async$pZ=P.Y(function(b,c){if(b===1){p=c
-t=q}while(true)switch(t){case 0:k="http://localhost:6006/server/"+a.a+"/apidocjson"
+t=q}while(true)switch(t){case 0:k="/server/"+a.a+"/apidocjson"
 j=""
 q=4
 t=7
@@ -51233,7 +51233,7 @@ B.iZ.prototype={
 be:function(a){var t=0,s=P.a2(u.ln),r,q=this,p,o
 var $async$be=P.Y(function(b,c){if(b===1)return P.a_(c,s)
 while(true)switch(t){case 0:t=3
-return P.a9(T.fb("POST","http://localhost:6006/server/"+H.d(q.a.b)+"/sql",q.a.ju(),q.b.c),$async$be)
+return P.a9(T.fb("POST","/server/"+H.d(q.a.b)+"/sql",q.a.ju(),q.b.c),$async$be)
 case 3:o=c
 if(o.d.toUpperCase()==="S"){q.a=V.abg(J.a3(o.f,"serversql"))
 q.aP()}else{p=o.e
@@ -51244,7 +51244,7 @@ case 1:return P.a0(r,s)}})
 return P.a1($async$be,s)},
 cK:function(){var t=0,s=P.a2(u.N),r,q=2,p,o=[],n=this,m,l,k,j,i
 var $async$cK=P.Y(function(a,b){if(a===1){p=b
-t=q}while(true)switch(t){case 0:k="http://localhost:6006/server/"+H.d(n.a.b)+"/sql/"+n.a.a+"/apidoc"
+t=q}while(true)switch(t){case 0:k="/server/"+H.d(n.a.b)+"/sql/"+n.a.a+"/apidoc"
 j=""
 q=4
 t=7
@@ -51269,7 +51269,7 @@ case 2:return P.a_(p,s)}})
 return P.a1($async$cK,s)},
 cL:function(){var t=0,s=P.a2(u.N),r,q=2,p,o=[],n=this,m,l,k,j,i
 var $async$cL=P.Y(function(a,b){if(a===1){p=b
-t=q}while(true)switch(t){case 0:k="http://localhost:6006/server/"+H.d(n.a.b)+"/sql/"+n.a.a+"/apidocjson"
+t=q}while(true)switch(t){case 0:k="/server/"+H.d(n.a.b)+"/sql/"+n.a.a+"/apidocjson"
 j=""
 q=4
 t=7
@@ -51324,7 +51324,7 @@ return P.a1($async$nn,s)},
 om:function(){var t=0,s=P.a2(u.z),r=this,q
 var $async$om=P.Y(function(a,b){if(a===1)return P.a_(b,s)
 while(true)switch(t){case 0:t=2
-return P.a9(T.fb("GET","http://localhost:6006/server/sql",C.cd,r.b.c),$async$om)
+return P.a9(T.fb("GET","/server/sql",C.cd,r.b.c),$async$om)
 case 2:q=b
 if(q.d.toUpperCase()==="S")J.ds(J.a3(q.f,"serversqls"),new A.V5(r))
 return P.a0(null,s)}})
@@ -51341,7 +51341,7 @@ X.jf.prototype={
 be:function(a){var t=0,s=P.a2(u.ln),r,q=this,p,o,n
 var $async$be=P.Y(function(b,c){if(b===1)return P.a_(c,s)
 while(true)switch(t){case 0:p=q.a.a
-o=p>0?"http://localhost:6006/user"+("/"+p):"http://localhost:6006/user"
+o=p>0?"/user"+("/"+p):"/user"
 t=3
 return P.a9(T.fb("POST",o,q.a.ju(),q.b.c),$async$be)
 case 3:n=c
@@ -51354,7 +51354,7 @@ case 1:return P.a0(r,s)}})
 return P.a1($async$be,s)},
 cK:function(){var t=0,s=P.a2(u.N),r,q=2,p,o=[],n=this,m,l,k,j,i
 var $async$cK=P.Y(function(a,b){if(a===1){p=b
-t=q}while(true)switch(t){case 0:k="http://localhost:6006/user/"+n.a.a+"/"+H.d(n.a.b)+"/apidoc"
+t=q}while(true)switch(t){case 0:k="/user/"+n.a.a+"/"+H.d(n.a.b)+"/apidoc"
 j=""
 q=4
 t=7
@@ -51379,7 +51379,7 @@ case 2:return P.a_(p,s)}})
 return P.a1($async$cK,s)},
 cL:function(){var t=0,s=P.a2(u.N),r,q=2,p,o=[],n=this,m,l,k,j,i
 var $async$cL=P.Y(function(a,b){if(a===1){p=b
-t=q}while(true)switch(t){case 0:k="http://localhost:6006/user/"+n.a.a+"/"+H.d(n.a.b)+"/apidocjson"
+t=q}while(true)switch(t){case 0:k="/user/"+n.a.a+"/"+H.d(n.a.b)+"/apidocjson"
 j=""
 q=4
 t=7
@@ -51428,7 +51428,7 @@ return P.a1($async$nq,s)},
 oo:function(){var t=0,s=P.a2(u.z),r=this,q
 var $async$oo=P.Y(function(a,b){if(a===1)return P.a_(b,s)
 while(true)switch(t){case 0:t=2
-return P.a9(T.fb("GET","http://localhost:6006/user",C.cd,r.b.c),$async$oo)
+return P.a9(T.fb("GET","/user",C.cd,r.b.c),$async$oo)
 case 2:q=b
 if(q.d.toUpperCase()==="S")J.ds(J.a3(q.f,"users"),new K.WT(r))
 return P.a0(null,s)}})

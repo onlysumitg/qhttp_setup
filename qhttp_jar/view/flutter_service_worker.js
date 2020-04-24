@@ -18,7 +18,7 @@ const RESOURCES = {
 "icons/qhttp.png": "c1d793bdf40f867cef84073f1aaf697a",
 "index.html": "af428aeac126eb2e31e9956cde178074",
 "/": "af428aeac126eb2e31e9956cde178074",
-"main.dart.js": "38396d64234be164ed22c5a4924980fe",
+"main.dart.js": "c7de0631c5ed1b3049f20b134c61658b",
 "manifest.json": "89b44a1744702891f2945cf014586127"
 };
 
