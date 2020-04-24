@@ -1,0 +1,20 @@
+2020-04-23 23:04:17,207 WARN  [main] [Exposed] Indices exist in database and not mapped in code on class 'SERVERSQLPARAMETERS':
+2020-04-23 23:04:17,208 WARN  [main] [Exposed] 		Unique Index 'SERVERSQLPARAMETERS_ID_UNIQUE' for 'SERVERSQLPARAMETERS' on columns com.qsys400.qhttp.ibmi.db.ServerSQLParametersTable.id
+2020-04-23 23:04:17,282 WARN  [main] [Exposed] Indices exist in database and not mapped in code on class 'SERVERSQLRESULTSETPARAMETERS':
+2020-04-23 23:04:17,282 WARN  [main] [Exposed] 		Unique Index 'SERVERSQLRESULTSETPARAMETERS_ID_UNIQUE' for 'SERVERSQLRESULTSETPARAMETERS' on columns com.qsys400.qhttp.ibmi.db.ServerSQLResultSetParametersTable.id
+2020-04-23 23:04:52,154 WARN  [main] [Exposed] Indices exist in database and not mapped in code on class 'SERVERSQLPARAMETERS':
+2020-04-23 23:04:52,190 WARN  [main] [Exposed] 		Unique Index 'SERVERSQLPARAMETERS_ID_UNIQUE' for 'SERVERSQLPARAMETERS' on columns com.qsys400.qhttp.ibmi.db.ServerSQLParametersTable.id
+2020-04-23 23:04:52,287 WARN  [main] [Exposed] Indices exist in database and not mapped in code on class 'SERVERSQLRESULTSETPARAMETERS':
+2020-04-23 23:04:52,287 WARN  [main] [Exposed] 		Unique Index 'SERVERSQLRESULTSETPARAMETERS_ID_UNIQUE' for 'SERVERSQLRESULTSETPARAMETERS' on columns com.qsys400.qhttp.ibmi.db.ServerSQLResultSetParametersTable.id
+2020-04-23 23:05:36,485 WARN  [main] [Exposed] Indices exist in database and not mapped in code on class 'SERVERSQLPARAMETERS':
+2020-04-23 23:05:36,486 WARN  [main] [Exposed] 		Unique Index 'SERVERSQLPARAMETERS_ID_UNIQUE' for 'SERVERSQLPARAMETERS' on columns com.qsys400.qhttp.ibmi.db.ServerSQLParametersTable.id
+2020-04-23 23:05:36,561 WARN  [main] [Exposed] Indices exist in database and not mapped in code on class 'SERVERSQLRESULTSETPARAMETERS':
+2020-04-23 23:05:36,562 WARN  [main] [Exposed] 		Unique Index 'SERVERSQLRESULTSETPARAMETERS_ID_UNIQUE' for 'SERVERSQLRESULTSETPARAMETERS' on columns com.qsys400.qhttp.ibmi.db.ServerSQLResultSetParametersTable.id
+2020-04-23 23:07:01,951 WARN  [main] [Exposed] Indices exist in database and not mapped in code on class 'SERVERSQLPARAMETERS':
+2020-04-23 23:07:01,952 WARN  [main] [Exposed] 		Unique Index 'SERVERSQLPARAMETERS_ID_UNIQUE' for 'SERVERSQLPARAMETERS' on columns com.qsys400.qhttp.ibmi.db.ServerSQLParametersTable.id
+2020-04-23 23:07:02,076 WARN  [main] [Exposed] Indices exist in database and not mapped in code on class 'SERVERSQLRESULTSETPARAMETERS':
+2020-04-23 23:07:02,076 WARN  [main] [Exposed] 		Unique Index 'SERVERSQLRESULTSETPARAMETERS_ID_UNIQUE' for 'SERVERSQLRESULTSETPARAMETERS' on columns com.qsys400.qhttp.ibmi.db.ServerSQLResultSetParametersTable.id
+2020-04-23 23:07:53,789 WARN  [main] [Exposed] Indices exist in database and not mapped in code on class 'SERVERSQLPARAMETERS':
+2020-04-23 23:07:53,789 WARN  [main] [Exposed] 		Unique Index 'SERVERSQLPARAMETERS_ID_UNIQUE' for 'SERVERSQLPARAMETERS' on columns com.qsys400.qhttp.ibmi.db.ServerSQLParametersTable.id
+2020-04-23 23:07:53,857 WARN  [main] [Exposed] Indices exist in database and not mapped in code on class 'SERVERSQLRESULTSETPARAMETERS':
+2020-04-23 23:07:53,857 WARN  [main] [Exposed] 		Unique Index 'SERVERSQLRESULTSETPARAMETERS_ID_UNIQUE' for 'SERVERSQLRESULTSETPARAMETERS' on columns com.qsys400.qhttp.ibmi.db.ServerSQLResultSetParametersTable.id
