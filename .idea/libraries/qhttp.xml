@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="qhttp">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/qhttp_jar/qhttp.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
