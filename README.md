@@ -1,9 +1,10 @@
 # QHTTP
 
-Its still in initial development so there might be bugs. But this version is fully functional. Please feel free to report the bugs at onlysumitg@gmail.com 
+Its still in active development so there might be bugs. But this version is fully functional. Please feel free to report the bugs at onlysumitg@gmail.com 
 
 ### About QHTTP
-QHTTP simply allow you to expose any DB2 for I stored procedure as a Restful service. Its specifically designed not to include any business logic. So, all the business logic should stay on IBM i.
+QHTTP simply allow you to expose any DB2 for I stored procedure as a Restful service. It should take less then 5 minutes to setup and should not take more then couple of minutes to expose the stored procedure as service.
+Its specifically designed not to include any business logic. So, all the business logic should stay on IBM i.
 
 ### Requirements
 - **Dont need to install the QHTTP jar file on IBM I.
