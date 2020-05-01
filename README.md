@@ -26,6 +26,13 @@ QHTTP simply allow you to expose any DB2 for I stored procedure as a Restful ser
 - UI is completly independent of the backend. So its easy to create your own UI.
 - Integrated with Open API.
 - and other stuff that I dont remeber right now :)
+- Auto convert stored procedure output to JSON.
+- Auto create Open API documentation at following levels
+  - Admin
+  - Server
+  - Service
+  - Group
+  - User
 
 
 # Next Step
