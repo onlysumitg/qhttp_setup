@@ -3,7 +3,7 @@
 Its still in initial development so there might be bugs. But this version is fully functional. Please feel free to report the bugs at onlysumitg@gmail.com 
 
 ### About QHTTP
-QHTTP simply allow you to expose any DB2 for I stored procedure as a Restful service. 
+QHTTP simply allow you to expose any DB2 for I stored procedure as a Restful service. Its specifically designed not to include any business logic. So, all the business logic should stay on IBM i.
 
 ### Requirements
 - **Dont need to install the QHTTP jar file on IBM I.
@@ -21,12 +21,11 @@ QHTTP simply allow you to expose any DB2 for I stored procedure as a Restful ser
 - It does not require any web server (like Apache) on IBM i.
 - It can be used with any existing DB2 for I stored procedure.
 - It uses JWT bearer token for auth.(please check system.properties for JWT config)
-- It can be installed on NON IBM i systems. You can install it on your pc also.
+- It can be installed on NON IBM i systems(But not required). You can install it on your pc also.
 - It can connect to mutiple IBM i systems.
-- UI is completly independent of the backend. So its easy to create your own UI.
-- Integrated with Open API.
-- and other stuff that I dont remeber right now :)
+- Auto log all request and response data.
 - Auto convert stored procedure output to JSON.
+- Integrated with Open API.
 - Auto create Open API documentation at following levels
   - Admin
   - Server
